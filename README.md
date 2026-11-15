@@ -1,3 +1,3 @@
 # GIN IMG HANDLER
 
-**Add ".env" file Then add DATABASE=url
+**Add ".env" file Then add DATABASE=url**
